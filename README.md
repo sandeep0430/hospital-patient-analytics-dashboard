@@ -57,7 +57,6 @@ hospital-patient-kpi-dashboard
 
 ## Dashboard Preview
 
-> Add your dashboard screenshot below after uploading to GitHub.
 
 ![Dashboard Preview](images/dashboard.png)
 
