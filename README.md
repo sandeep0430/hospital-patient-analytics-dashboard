@@ -87,6 +87,8 @@ hospital-patient-kpi-dashboard
 - What is the average claim cost?
 - How do patient demographics vary by age and gender?
 
+```
+
 ## Skills Demonstrated
 
 - Data Cleaning
