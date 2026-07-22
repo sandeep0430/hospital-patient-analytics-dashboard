@@ -78,6 +78,15 @@ hospital-patient-kpi-dashboard
 
 ---
 
+## Business Questions Answered
+
+- How many patients were treated?
+- What are the monthly encounter trends?
+- Which procedures are performed most frequently?
+- Which insurance providers cover the highest claim amounts?
+- What is the average claim cost?
+- How do patient demographics vary by age and gender?
+
 ## Skills Demonstrated
 
 - Data Cleaning
